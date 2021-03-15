@@ -1,0 +1,10 @@
+body {
+  background-color: azure;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: darkblue;
+}
+.details {
+  background-color: darkblue;
+  color: azure;
+}
